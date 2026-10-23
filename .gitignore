@@ -1,0 +1,29 @@
+
+# Operating system files
+Thumbs.db
+.DS_Store
+Desktop.ini
+
+# Editor settings
+.vscode/
+
+# Temporary and log files
+*.log
+*.tmp
+*.bak
+
+# Environment variables and secrets
+.env
+.env.*
+
+# Local database and backup files
+*.mdf
+*.ldf
+*.bak
+*.trn
+
+# Power BI temporary files
+~$*.pbix
+
+
+/data/Sample - Superstore.csv
